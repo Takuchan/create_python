@@ -1,8 +1,6 @@
-n  = 12
-y = 12
+a = 15
 
 
-#TrueでBooleanにできる。
-a = True
 
-print (type(a))
+a **= 2
+print (a)
