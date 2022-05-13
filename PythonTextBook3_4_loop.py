@@ -9,7 +9,9 @@
 
 total = 0
 for a in range(10):
-    total += 5
+    
+    total += 3
+    print (total)
     if(total) > 20:
         break;
 
