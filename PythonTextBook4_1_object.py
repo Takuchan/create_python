@@ -2,3 +2,15 @@ a = '『文脈のジレンマ』でベナミ・シャーフスタインは、「
 print (a.count('文脈'))
 
 #count っていう機能を使い倒せ！！！！！！
+
+b = 'AROJARPOIAEROITAPLSKDJFSDFSDKJHFAKSJHKAJHWERKJHDFKJHSDKAJHSDKFJH'
+c = b.lower()
+d = c.upper()
+
+e = b.find('JA')
+print (c,'と',b)
+print('JAが入るのは',e)
+
+print ('2022-04-11'.split('-'))
+print('')
+
